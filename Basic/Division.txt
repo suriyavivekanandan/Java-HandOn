@@ -1,0 +1,11 @@
+class Division
+{
+	public static void main(String arg[])
+	{
+	int q,r,s;
+	q=100;
+	r=10;
+	s=q/s;
+    	system.out.println("Divison of tw0="+s);
+	}
+}
